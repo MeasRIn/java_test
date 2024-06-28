@@ -1,0 +1,45 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Testinclass",
+      "request": "launch",
+      "mainClass": "Testinclass",
+      "projectName": "Java_Test_e59e1e36"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "Java_Test_e59e1e36"
+    },
+    {
+      "type": "java",
+      "name": "LabelExample",
+      "request": "launch",
+      "mainClass": "LabelExample",
+      "projectName": "Java_Test_e59e1e36"
+    },
+    {
+      "type": "java",
+      "name": "label",
+      "request": "launch",
+      "mainClass": "label",
+      "projectName": "Java_Test_e59e1e36"
+    },
+    {
+      "type": "java",
+      "name": "MyAWTProgram",
+      "request": "launch",
+      "mainClass": "MyAWTProgram",
+      "projectName": "Java_Test_e59e1e36"
+    },
+    {
+      "type": "java",
+      "name": "Java AWT Program",
+      "request": "launch",
+      "mainClass": "YourMainClass"
+    }
+  ]
+}
