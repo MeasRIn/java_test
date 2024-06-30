@@ -6,6 +6,9 @@ public class label extends Frame{
     private TextField textField;
     private Button btn=new Button("Sum");
         
+    /**
+     * 
+     */
     public label(){
  
         this.setVisible(true);
@@ -25,6 +28,7 @@ public class label extends Frame{
         });
         Label lb=new Label("Name");
         TextField tf=new TextField();
+        tf.setEchoChar("*");
 
         lb.setBounds(30, 100, 100, 20);
         tf.setBounds(60,100, 300, 20);

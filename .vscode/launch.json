@@ -2,6 +2,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Week7",
+      "request": "launch",
+      "mainClass": "Week7",
+      "projectName": "Java_Test_e59e1e36"
+    },
+    {
+      "type": "java",
+      "name": "week7",
+      "request": "launch",
+      "mainClass": "week7",
+      "projectName": "Java_Test_e59e1e36"
+    },
+    {
+      "type": "java",
+      "name": "test1",
+      "request": "launch",
+      "mainClass": "test1",
+      "projectName": "Java_Test_e59e1e36"
+    },
+    {
+      "type": "java",
       "name": "Testinclass",
       "request": "launch",
       "mainClass": "Testinclass",
